@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<components version="06082017">
+    <moleculetype id="1" name="alternativebutan">
+        <SiteID>1</SiteID>
+        <site type="LJ126" id="1">
+            <coords>
+                <x>0.0</x>
+                <y>0.0</y>
+                <z>0.0</z>
+            </coords>
+            <sigma>3.905</sigma>
+            <epsilon>88.1</epsilon>
+            <mass>15.0347</mass>
+            <SiteID>2</SiteID>
+        </site>
+        <site type="LJ126" id="2">
+            <coords>
+                <x>1.53</x>
+                <y>0.0</y>
+                <z>0.0</z>
+            </coords>
+            <sigma>3.905</sigma>
+            <epsilon>59.4</epsilon>
+            <mass>14.0268</mass>
+            <SiteID>3</SiteID>
+        </site>
+        <site type="LJ126" id="3">
+            <coords>
+                <x>2.10315</x>
+                <y>1.41859</y>
+                <z>0.0</z>
+            </coords>
+            <sigma>3.905</sigma>
+            <epsilon>59.4</epsilon>
+            <mass>14.0268</mass>
+            <SiteID>4</SiteID>
+        </site>
+        <site type="LJ126" id="4">
+            <coords>
+                <x>3.63315</x>
+                <y>1.41859</y>
+                <z>0.0</z>
+            </coords>
+            <sigma>3.905</sigma>
+            <epsilon>88.1</epsilon>
+            <mass>15.0347</mass>
+        </site>
+        <momentsofinertia rotaxes="xyz">
+            <Ixx>0</Ixx>
+            <Iyy>0</Iyy>
+            <Izz>0</Izz>
+        </momentsofinertia>
+    </moleculetype>
+</components>
